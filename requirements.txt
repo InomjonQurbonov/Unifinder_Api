@@ -4,7 +4,9 @@ django-jazzmin==3.0.0
 djangorestframework==3.15.1
 djangorestframework-simplejwt==5.3.1
 drf-yasg==1.21.7
+environs==11.0.0
 inflection==0.5.1
+marshmallow==3.21.3
 packaging==24.1
 pillow==10.3.0
 PyJWT==2.8.0
